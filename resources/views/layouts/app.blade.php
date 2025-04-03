@@ -88,7 +88,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/your-repo" target="_blank">
+                        <a class="nav-link" href="https://github.com/zainan0717/tugas_crud_web2.git" target="_blank">
                             <i class="fab fa-github me-1"></i> GitHub
                         </a>
 
